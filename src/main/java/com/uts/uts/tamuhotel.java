@@ -1,3 +1,5 @@
+package com.uts.uts;
+
 public class tamuhotel {
     public static void main(String[] args) {
         var customer = new personP(); // Create an instance of CustomerHotel
